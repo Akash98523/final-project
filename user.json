@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Akashi",
+        "password": 12345,
+        "age": 22,
+        "phone number": "7485965263",
+        "order history": {
+            "04-28-2022": [
+                "fried Rice"
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "name": "Aman",
+        "password": 859674,
+        "age": 22,
+        "phone number": "8596234178",
+        "order history": {
+            "04-28-2022": [
+                "Paneer Tikka"
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "name": "Vishal",
+        "password": 854263,
+        "age": 22,
+        "phone number": "8754216389",
+        "order history": {}
+    },
+    {
+        "id": 4,
+        "name": "Akash",
+        "password": 12345,
+        "age": 21,
+        "phone number": "7485965263",
+        "order history": {}
+    }
+]
